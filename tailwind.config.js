@@ -13,7 +13,9 @@ export default {
         borderColor: "#e1e1e1",
         blueBorder: '#3f51b5',
         primarySoft: '#eef4ff',
-        text: "#242424"
+        text: "#242424",
+        service: "#11142d",
+        serviceDec: "#aaa"
       }
     },
   },

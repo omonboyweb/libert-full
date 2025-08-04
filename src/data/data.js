@@ -1,4 +1,4 @@
-import { ServiceIcon1 } from "../assets/icons/service-icon1";
+import { Service1icon } from "../assets/icons/service1-icon";
 
 export const newBooks = [
   {
@@ -81,29 +81,29 @@ export const audioBooks = [
 export const serviceData = [
   {
     id: 1,
-    icon: ServiceIcon1,
+    icon: Service1icon,
     title: "Тезкор етказиш",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
   },
   {
     id: 2,
-    icon: ServiceIcon1,
-    title: "Тезкор етказиш",
+    icon: Service1icon,
+    title: "Тўлов химояси",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
   },
   {
     id: 3,
-    icon: ServiceIcon1,
-    title: "Тезкор етказиш",
+    icon: Service1icon,
+    title: "Юқори сифат",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
   },
   {
     id: 4,
-    icon: ServiceIcon1,
-    title: "Тезкор етказиш",
+    icon: Service1icon,
+    title: "Энг сара китоблар",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
   },
